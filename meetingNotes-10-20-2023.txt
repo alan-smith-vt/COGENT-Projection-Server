@@ -1,0 +1,23 @@
+Want to make sure understanding of the project is correct
+
+Visual assets to be shown to users
+How can we help the technical authors who are creating these apps?
+Specifically for the location
+
+Take a picture of the part within the machine, send it through a black box, 
+and get an optimized visual asset out of it -> the bounding line/pill/cuboid whatever
+based on their research
+
+Same experiment in two different use cases
+
+Or split experiment into two parts
+
+Why can't we use regular CV? Explain in detail.
+
+Use depth to filter the region of interest. 
+
+Can we have a semi automated approach? Code provides 2-3 options for the author to select?
+
+Delete all unnecessary code
+
+
